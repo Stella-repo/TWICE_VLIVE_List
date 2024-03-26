@@ -1,6 +1,5 @@
 # TWICE_VLIVE_List
-https://docs.google.com/spreadsheets/d/1V4EFeNCTC7l2OCV4t_QXOSAA33DWyzi298G_Y9g_NgM
-
+https://docs.google.com/spreadsheets/d/1jBJHsvszTY0yxjWqVZ2CreKtk4a91deoJtl7YXOoCUQ
 ## 기능
 * 5분마다 자동으로 목록 최신화
 * LIVE, TWICE TV, TTT, Melody Project 자동분류
